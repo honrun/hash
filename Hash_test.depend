@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637987284 source:e:\debug project\c\hash_test\deviceshash.c
+	"stdint.h"
+	"DevicesHash.h"
+
+1637986906 e:\debug project\c\hash_test\deviceshash.h
+
+1637987385 source:e:\debug project\c\hash_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"DevicesHash.h"
+
